@@ -4,11 +4,11 @@ Developed a basic terminal-based To-Do List application using Python and SQLite 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
 
-#Features
+# Features
 - SQLite usage
 - Add, Edit, Delete, View, View by Status
 
-#Usage
+# Usage
 python ToDo.py
 
 #Resources used:
