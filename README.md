@@ -2,7 +2,7 @@
 Developed a basic terminal-based To-Do List application using Python and SQLite to manage tasks with functionalities like add, view, edit, delete, and mark as completed.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-90%25-yellow)
+![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
 
 #Features
 - SQLite usage
